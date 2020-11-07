@@ -16,7 +16,7 @@ public class Softwaretechnik_Uebung_1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("1");
+        System.out.println("Halil");
     }
     
 }
